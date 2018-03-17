@@ -1,0 +1,11 @@
+# Compiled Source #
+###################
+a.out
+
+# Playing around #
+##################
+test*
+
+# OS Generated #
+################
+.DS_Store
